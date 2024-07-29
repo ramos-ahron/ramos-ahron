@@ -2,7 +2,7 @@
 
 ## 👋 Hello there!
 
-I'm Ahron Ramos, a 2nd Year Software Engineering Student based in Calgary. Welcome to my GitHub profile! 🚀
+I'm Ahron Ramos, a 3rd Year Software Engineering Student based in Calgary. Welcome to my GitHub profile! 🚀
 
 ### 🌐 About Me
 
