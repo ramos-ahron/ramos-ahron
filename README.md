@@ -10,8 +10,8 @@ I am passionate about learning new information and applying it to my work. My jo
 
 ### 💻 Tech Stack
 
-- Programming Languages: Python, Java, C, C++
-- Tools & Technologies: Git, MySQL
+- Programming Languages: Python, Java, C, C++, HTML, CSS, JavaScript, NodeJS, React, Django, Flask
+- Tools & Technologies: Git, MySQL, PostgreSQL
 
 ### 🌱 I’m currently learning
 
