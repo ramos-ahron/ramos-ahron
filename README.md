@@ -1,24 +1,27 @@
-# Ahron Ramos
+# Ahron Daeniel Ramos
 
-## Hello there!
+Software engineering student at the University of Calgary building embedded systems, computer vision, and data tooling.
 
-I'm Ahron Ramos, a 4th Year Software Engineering Student based in Calgary. Welcome to my GitHub profile! 🚀
+## About
 
-### About Me
+I like work where software meets hardware: firmware, sensors, and the analysis code that makes sense of their data.
 
-I am passionate about learning new information and applying it to my work. My journey in the tech world has allowed me to explore and contribute to various projects.
+## Skills
 
-### Tech Stack
+- **Embedded firmware:** multi-threaded C/C++ on STM32, nRF52, and PIC24 using Zephyr, BLE, and I2C/SPI/UART
+- **Computer vision:** OpenCV detection pipelines
+- **Data analysis and ML:** Python, pandas, PyTorch, PCA, Plotly
+- **Test and automation tooling:** PyTest, Docker, Azure DevOps
+- **Hardware design:** KiCad, custom PCB co-design
 
-- Programming Languages: Python, Java, C, C++, HTML, CSS, JavaScript, NodeJS, React, Django, Flask
-- Tools & Technologies: Git, MySQL, PostgreSQL
+## Tech
 
-### I’m currently learning
+- **Languages:** Python, C/C++, Java, JavaScript, SQL, MATLAB, Bash
+- **Libraries and frameworks:** OpenCV, PyTorch, Dash, pandas, Plotly, React, WPILib
+- **Tools:** Git, Linux, Docker, PyTest, Azure DevOps, MySQL, PostgreSQL
+- **Embedded:** STM32, nRF52, PIC24, Zephyr, BLE, KiCad
 
-I am currently focused on improving my skills in HTML, CSS, Javascript, and Flask. Always excited to explore new horizons and stay up-to-date with the latest in the tech world.
+## How to reach me
 
-### How to reach me
-
-Feel free to reach out to me via ahrondaenielr@gmail.com for any collaboration, questions, or just to say hi!
-
-Thanks for stopping by! Let's connect and build something amazing together. 😊
+- Email: [ahrondaenielr@gmail.com](mailto:ahrondaenielr@gmail.com)
+- LinkedIn: [ahron-daeniel-ramos](https://linkedin.com/in/ahron-daeniel-ramos/)
