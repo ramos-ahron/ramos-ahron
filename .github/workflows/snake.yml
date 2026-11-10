@@ -14,10 +14,10 @@ jobs:
       - uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
-          # Same grey ink as the stat graphics (light: GitHub light, dark: GitHub dark).
+          # Black and white, matching the stat graphics.
           outputs: |
-            dist/github-snake.svg?color_snake=#424a53&color_dots=#ebeef1,#d8dee4,#afb8c1,#8c959f,#6e7681
-            dist/github-snake-dark.svg?color_snake=#f0f6fc&color_dots=#161b22,#30363d,#6e7681,#8b949e,#c9d1d9
+            dist/github-snake.svg?color_snake=#000000&color_dots=#ebeef1,#c8d1da,#8c959f,#424a53,#000000
+            dist/github-snake-dark.svg?color_snake=#ffffff&color_dots=#161b22,#3d444d,#6e7681,#b1bac4,#ffffff
       - name: Stat graphics
         run: python3 .github/scripts/generate_stats.py
         env:

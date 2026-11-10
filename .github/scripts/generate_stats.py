@@ -485,7 +485,7 @@ def main():
 
     s = summarise(fetch(login, token))
     files = {"stats.svg": draw_stats(s), "streak.svg": draw_streak(s),
-             "langs.svg": draw_langs(s), "year.svg": draw_year(s)}
+             "langs.svg": draw_langs(s)}
     for word in ("about", "stack", "projects", "stats"):
         files[f"hd-{word.replace(' ', '-')}.svg"] = draw_heading(word)
 

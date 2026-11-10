@@ -11,20 +11,17 @@
 <img src="https://raw.githubusercontent.com/ramos-ahron/ramos-ahron/output/hd-about.svg" width="620" alt="about"/>
 
 > Ahron Daeniel Ramos. Software Engineering student at the University of Calgary.<br>
-> Firmware that reads real-world signals, and the software that makes sense of them.
+> Devices that read real-world signals.
 
-16 months as a software engineering intern at Garmin Canada. Right now that's<br>
-[Hydrosense](https://github.com/ramos-ahron/hydration-sensor): a bioimpedance wearable on an nRF52840 running Zephyr. Mostly<br>
-C/C++ and Python, with Java and TypeScript on the app side. Off the keyboard: basketball and rock climbing.
+Firmware on small boards that pulls data off sensors, machine learning and<br>
+computer vision that interpret it, and the apps where people see the results.<br>
+Right now that's [Hydrosense](https://github.com/ramos-ahron/hydration-sensor), a bioimpedance wearable on an nRF52840<br>
+running Zephyr. Before that, 16 months as a software engineering intern at Garmin Canada.<br>
+Most of what I write is C/C++ and Python, with Java and TypeScript on the app side.
 
 <img src="https://raw.githubusercontent.com/ramos-ahron/ramos-ahron/output/hd-stack.svg" width="620" alt="stack"/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=c,cpp,py,pytorch,opencv,linux,docker,git,ts,react,nextjs,fastapi,java,spring,postgres,githubactions&perline=8&theme=dark">
-  <img src="https://skillicons.dev/icons?i=c,cpp,py,pytorch,opencv,linux,docker,git,ts,react,nextjs,fastapi,java,spring,postgres,githubactions&perline=8&theme=light" width="420" alt="c, c++, python, pytorch, opencv, linux, docker, git, typescript, react, next.js, fastapi, java, spring, postgres, github actions">
-</picture>
-
-<samp>zephyr rtos &nbsp; nrf52 &nbsp; stm32 &nbsp; pic24 &nbsp; ble</samp>
+<samp>c &nbsp; c++ &nbsp; python &nbsp; java &nbsp; typescript &nbsp; react &nbsp; next.js &nbsp; fastapi &nbsp; spring &nbsp; postgres &nbsp; pytorch &nbsp; opencv &nbsp; zephyr &nbsp; nrf52 &nbsp; stm32 &nbsp; ble &nbsp; docker &nbsp; git &nbsp; linux</samp>
 
 <img src="https://raw.githubusercontent.com/ramos-ahron/ramos-ahron/output/hd-projects.svg" width="620" alt="projects"/>
 
@@ -47,8 +44,6 @@ and emailed reports.
 <img src="https://raw.githubusercontent.com/ramos-ahron/ramos-ahron/output/streak.svg" width="620" alt="Current and longest streak"/>
 
 <img src="https://raw.githubusercontent.com/ramos-ahron/ramos-ahron/output/langs.svg" width="620" alt="Top languages by bytes and by repo"/>
-
-<img src="https://raw.githubusercontent.com/ramos-ahron/ramos-ahron/output/year.svg" width="620" alt="The last year, one character per day"/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ramos-ahron/ramos-ahron/output/github-snake-dark.svg">
