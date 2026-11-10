@@ -1,6 +1,6 @@
-name: snake
+name: profile graphics
 on:
-  schedule: [{ cron: "0 0 * * *" }]
+  schedule: [{ cron: "17 5 * * *" }]
   workflow_dispatch:
   push:
     branches: [main]
@@ -14,13 +14,16 @@ jobs:
       - uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
+          # Same grey ink as the stat graphics (light: GitHub light, dark: GitHub dark).
           outputs: |
-            dist/github-snake.svg?color_snake=#2e5bd8&color_dots=#ebedf0,#c7d2fe,#a5b4fc,#7aa2f7,#2e5bd8
-            dist/github-snake-dark.svg?palette=github-dark&color_snake=#f7768e&color_dots=#151b23,#33467c,#5a6fbf,#7aa2f7,#bb9af7
-      - name: Activity graph
-        run: python3 .github/scripts/activity_graph.py ${{ github.repository_owner }} dist
+            dist/github-snake.svg?color_snake=#424a53&color_dots=#ebeef1,#d8dee4,#afb8c1,#8c959f,#6e7681
+            dist/github-snake-dark.svg?color_snake=#f0f6fc&color_dots=#161b22,#30363d,#6e7681,#8b949e,#c9d1d9
+      - name: Stat graphics
+        run: python3 .github/scripts/generate_stats.py
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_LOGIN: ${{ github.repository_owner }}
+          OUT_DIR: dist
       - uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
