@@ -16,7 +16,7 @@ jobs:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/github-snake.svg?color_snake=#2e5bd8&color_dots=#ebedf0,#c7d2fe,#a5b4fc,#7aa2f7,#2e5bd8
-            dist/github-snake-dark.svg?palette=github-dark&color_snake=#f7768e&color_dots=#1f2335,#33467c,#5a6fbf,#7aa2f7,#bb9af7
+            dist/github-snake-dark.svg?palette=github-dark&color_snake=#f7768e&color_dots=#151b23,#33467c,#5a6fbf,#7aa2f7,#bb9af7
       - name: Activity graph
         run: python3 .github/scripts/activity_graph.py ${{ github.repository_owner }} dist
         env:

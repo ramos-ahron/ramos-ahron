@@ -12,12 +12,6 @@
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&duration=2800&pause=900&color=7AA2F7&center=true&vCenter=true&width=640&height=40&lines=Zephyr+firmware+on+nRF52;Bioimpedance+wearables+over+BLE;Computer+vision+with+OpenCV+%2B+MediaPipe;Software+Engineering+%40+UCalgary" alt="Typing SVG">
 </a>
 
-<br><br>
-
-<a href="https://github.com/ramos-ahron?tab=followers"><img src="https://img.shields.io/github/followers/ramos-ahron?label=Followers&style=for-the-badge&color=f7768e&labelColor=1a1b26&logo=github&logoColor=c0caf5" alt="Followers"></a>
-<a href="https://github.com/ramos-ahron?tab=repositories"><img src="https://img.shields.io/github/stars/ramos-ahron?label=Stars&style=for-the-badge&color=f7768e&labelColor=1a1b26&logo=github&logoColor=c0caf5" alt="Stars"></a>
-<img src="https://komarev.com/ghpvc/?username=ramos-ahron&label=Profile%20views&color=f7768e&style=for-the-badge" alt="Profile views">
-
 </div>
 
 <br>
@@ -25,48 +19,30 @@
 <!-- ───────────── About ───────────── -->
 <h2 align="center">About Me</h2>
 
-<table align="center">
-<tr>
-<td width="65%" valign="middle">
+<img src="https://www.ramosahron.wiki/images/selfie.webp" alt="Ahron Ramos" width="240" align="right">
 
-I'm a software engineering student at the **University of Calgary**. I build small devices that pull signals off sensors, then write the code that figures out what those signals mean. Most days that's C on a microcontroller or Python on the analysis side.
+I'm Ahron Daeniel Ramos, a Software Engineering student at the University of Calgary. I like building devices that read real-world signals: firmware on small boards that pulls data off sensors, machine learning and computer vision that interpret it, and the apps where people see the results. Most of what I write is C/C++ and Python, with Java and TypeScript on the app side.
 
 - 🛰️ Spent **16 months** as a software engineering intern at **Garmin Canada**
 - 🔬 Building **Hydrosense**, a bioimpedance wearable on an nRF52840 running Zephyr
 - 🥈 **2nd place** at Hack the Change 2026 with **PhysioTrace**
 - 🧗 Off the keyboard: basketball and rock climbing
 
-</td>
-<td width="35%" align="center" valign="middle">
-<img src="https://www.ramosahron.wiki/images/selfie.webp" alt="Ahron Ramos" width="100%">
-</td>
-</tr>
-</table>
+<br clear="right">
 
 <br>
 
 <!-- ───────────── Featured work ───────────── -->
 <h2 align="center">Featured Work</h2>
 
-<table align="center">
-<tr>
-<td width="33%" valign="top" align="center">
-<a href="https://github.com/ramos-ahron/hydration-sensor"><b>Hydrosense</b></a><br>
-<sub>nRF52840 · Zephyr · MAX30009 · BLE</sub><br><br>
-Upper-arm wearable that tracks fluid-status changes against a personal baseline using four-electrode bioimpedance.
-</td>
-<td width="33%" valign="top" align="center">
-<a href="https://github.com/BenTheOOF/hack-the-change-2026-physiotrace"><b>PhysioTrace</b></a> 🥈<br>
-<sub>MediaPipe · Next.js · FastAPI · Supabase</sub><br><br>
-Turns a phone or laptop camera into a rep coach that scores physio exercises in the browser.
-</td>
-<td width="33%" valign="top" align="center">
-<a href="https://github.com/ramos-ahron/Auto-Budget"><b>Auto Budget</b></a><br>
-<sub>React · Spring Boot · MySQL · Docker</sub><br><br>
-Turns income and expense entries into Gemini-generated spending analysis and emailed reports.
-</td>
-</tr>
-</table>
+- **[Hydrosense](https://github.com/ramos-ahron/hydration-sensor)** · <sub>nRF52840 · Zephyr · MAX30009 · BLE</sub><br>
+  Upper-arm wearable that tracks fluid-status changes against a personal baseline using four-electrode bioimpedance.
+
+- **[PhysioTrace](https://github.com/BenTheOOF/hack-the-change-2026-physiotrace)** 🥈 · <sub>MediaPipe · Next.js · FastAPI · Supabase</sub><br>
+  Turns a phone or laptop camera into a rep coach that scores physio exercises in the browser.
+
+- **[Auto Budget](https://github.com/ramos-ahron/Auto-Budget)** · <sub>React · Spring Boot · MySQL · Docker</sub><br>
+  Turns income and expense entries into Gemini-generated spending analysis and emailed reports.
 
 <br>
 
@@ -99,8 +75,8 @@ Turns income and expense entries into Gemini-generated spending analysis and ema
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=ramos-ahron&hide_border=true&background=1A1B26&ring=7AA2F7&fire=F7768E&currStreakLabel=7AA2F7&sideLabels=BB9AF7&currStreakNum=C0CAF5&sideNums=C0CAF5&dates=A9B1D6&stroke=33467C">
-  <img src="https://streak-stats.demolab.com?user=ramos-ahron&hide_border=true&background=F6F7FB&ring=2E5BD8&fire=F7768E&currStreakLabel=2E5BD8&sideLabels=7A4FD0&currStreakNum=1A1B26&sideNums=1A1B26&dates=686E8C&stroke=DEE1EC" alt="GitHub streak" width="85%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=ramos-ahron&hide_border=true&background=00000000&ring=7AA2F7&fire=F7768E&currStreakLabel=7AA2F7&sideLabels=BB9AF7&currStreakNum=C0CAF5&sideNums=C0CAF5&dates=A9B1D6&stroke=33467C">
+  <img src="https://streak-stats.demolab.com?user=ramos-ahron&hide_border=true&background=00000000&ring=2E5BD8&fire=F7768E&currStreakLabel=2E5BD8&sideLabels=7A4FD0&currStreakNum=1A1B26&sideNums=1A1B26&dates=686E8C&stroke=DEE1EC" alt="GitHub streak" width="85%">
 </picture>
 
 <br><br>
@@ -165,5 +141,10 @@ Turns income and expense entries into Gemini-generated spending analysis and ema
 
 </div>
 
-<!-- ───────────── Footer ───────────── -->
+<p align="center" >
+See you in the next commit!
+</p>
+
+<p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,100:bb9af7&height=120&section=footer" width="100%" alt="footer">
+</p>

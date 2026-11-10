@@ -20,8 +20,8 @@ query($login: String!) {
 }"""
 
 THEMES = {
-    "activity-graph.svg": dict(bg="#f6f7fb", text="#1a1b26", title="#2e5bd8", line="#2e5bd8", point="#7a4fd0", grid="#dee1ec"),
-    "activity-graph-dark.svg": dict(bg="#1a1b26", text="#c0caf5", title="#7aa2f7", line="#7aa2f7", point="#bb9af7", grid="#33467c"),
+    "activity-graph.svg": dict(text="#59636e", title="#2e5bd8", line="#2e5bd8", point="#7a4fd0", grid="#d1d9e0"),
+    "activity-graph-dark.svg": dict(text="#9198a1", title="#7aa2f7", line="#7aa2f7", point="#bb9af7", grid="#30363d"),
 }
 
 
@@ -57,7 +57,6 @@ def render(days, t):
 
     out = [
         f'<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 {W} {H}" width="{W}" height="{H}" font-family="Segoe UI, Ubuntu, sans-serif">',
-        f'<rect width="100%" height="100%" rx="6" fill="{t["bg"]}"/>',
         f'<text x="{W / 2}" y="45" text-anchor="middle" font-size="24" font-weight="600" fill="{t["title"]}">Contribution activity</text>',
     ]
     for k in range(5):
