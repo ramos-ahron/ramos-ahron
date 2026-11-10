@@ -11,12 +11,14 @@
 <img src="https://raw.githubusercontent.com/ramos-ahron/ramos-ahron/output/hd-about.svg" width="620" alt="about"/>
 
 > Ahron Daeniel Ramos. Software Engineering student at the University of Calgary.<br>
-> Devices that read real-world signals.
 
 Firmware on small boards that pulls data off sensors, machine learning and<br>
 computer vision that interpret it, and the apps where people see the results.<br>
-Right now that's [Hydrosense](https://github.com/ramos-ahron/hydration-sensor), a bioimpedance wearable on an nRF52840<br>
-running Zephyr. Before that, 16 months as a software engineering intern at Garmin Canada.<br>
+
+Right now that's [Hydrosense](https://github.com/ramos-ahron/hydration-sensor), a bioimpedance wearable on an nRF52840 running Zephyr.
+
+Before that, 16 months as a software engineering intern at Garmin Canada.<br>
+
 Most of what I write is C/C++ and Python, with Java and TypeScript on the app side.
 
 <img src="https://raw.githubusercontent.com/ramos-ahron/ramos-ahron/output/hd-stack.svg" width="620" alt="stack"/>
@@ -51,5 +53,3 @@ and emailed reports.
 </picture>
 
 </div>
-
-<sub>Stat graphics adapted from [andriidrok1](https://github.com/andriidrok1/andriidrok1) (MIT).</sub>
