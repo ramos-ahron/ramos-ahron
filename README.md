@@ -106,8 +106,8 @@ Turns income and expense entries into Gemini-generated spending analysis and ema
 <br><br>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=ramos-ahron&bg_color=1a1b26&color=c0caf5&title_color=7aa2f7&line=7aa2f7&point=bb9af7&area=true&area_color=7aa2f7&hide_border=true&custom_title=Contribution%20activity">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ramos-ahron&bg_color=f6f7fb&color=1a1b26&title_color=2e5bd8&line=2e5bd8&point=7a4fd0&area=true&area_color=2e5bd8&hide_border=true&custom_title=Contribution%20activity" alt="Activity graph" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ramos-ahron/ramos-ahron/output/activity-graph-dark.svg">
+  <img src="https://raw.githubusercontent.com/ramos-ahron/ramos-ahron/output/activity-graph.svg" alt="Activity graph" width="100%">
 </picture>
 
 </div>
