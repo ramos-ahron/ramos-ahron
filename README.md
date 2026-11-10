@@ -3,7 +3,7 @@
 <img src="https://raw.githubusercontent.com/ramos-ahron/ramos-ahron/output/stats.svg" width="620" alt="Contributions in the last year"/>
 
 [ramosahron.wiki](https://www.ramosahron.wiki/) &nbsp;·&nbsp;
-[linkedin](https://www.linkedin.com/in/ahron-daeniel-ramos/) &nbsp;·&nbsp;
+[linkedin](https://www.linkedin.com/in/ahron-ramos/) &nbsp;·&nbsp;
 [email](mailto:ahrondaenielr@gmail.com)
 
 </div>
